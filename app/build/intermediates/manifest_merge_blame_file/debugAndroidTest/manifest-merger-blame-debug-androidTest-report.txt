@@ -3,35 +3,35 @@
 3    package="com.gmagica.trackingapp.test" >
 4
 5    <uses-sdk
-5-->D:\Documents\G-Drive\trackingapp\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger5454856320059883507.xml:5:5-74
+5-->D:\Documents\G-Drive\trackingapp\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger4421517443856682690.xml:5:5-74
 6        android:minSdkVersion="18"
-6-->D:\Documents\G-Drive\trackingapp\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger5454856320059883507.xml:5:15-41
+6-->D:\Documents\G-Drive\trackingapp\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger4421517443856682690.xml:5:15-41
 7        android:targetSdkVersion="30" />
-7-->D:\Documents\G-Drive\trackingapp\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger5454856320059883507.xml:5:42-71
+7-->D:\Documents\G-Drive\trackingapp\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger4421517443856682690.xml:5:42-71
 8
 9    <instrumentation
-9-->D:\Documents\G-Drive\trackingapp\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger5454856320059883507.xml:11:5-15:73
+9-->D:\Documents\G-Drive\trackingapp\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger4421517443856682690.xml:11:5-15:73
 10        android:name="androidx.test.runner.AndroidJUnitRunner"
-10-->D:\Documents\G-Drive\trackingapp\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger5454856320059883507.xml:11:22-76
+10-->D:\Documents\G-Drive\trackingapp\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger4421517443856682690.xml:11:22-76
 11        android:functionalTest="false"
-11-->D:\Documents\G-Drive\trackingapp\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger5454856320059883507.xml:14:22-52
+11-->D:\Documents\G-Drive\trackingapp\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger4421517443856682690.xml:14:22-52
 12        android:handleProfiling="false"
-12-->D:\Documents\G-Drive\trackingapp\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger5454856320059883507.xml:13:22-53
+12-->D:\Documents\G-Drive\trackingapp\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger4421517443856682690.xml:13:22-53
 13        android:label="Tests for com.gmagica.trackingapp"
-13-->D:\Documents\G-Drive\trackingapp\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger5454856320059883507.xml:15:22-71
+13-->D:\Documents\G-Drive\trackingapp\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger4421517443856682690.xml:15:22-71
 14        android:targetPackage="com.gmagica.trackingapp" />
-14-->D:\Documents\G-Drive\trackingapp\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger5454856320059883507.xml:12:22-69
+14-->D:\Documents\G-Drive\trackingapp\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger4421517443856682690.xml:12:22-69
 15
 16    <uses-permission android:name="android.permission.REORDER_TASKS" />
 16-->[androidx.test:core:1.3.0] C:\Users\Harshna\.gradle\caches\transforms-2\files-2.1\ff713f148ab7842b1b4b6e98bb35bbe7\core-1.3.0\AndroidManifest.xml:24:5-72
 16-->[androidx.test:core:1.3.0] C:\Users\Harshna\.gradle\caches\transforms-2\files-2.1\ff713f148ab7842b1b4b6e98bb35bbe7\core-1.3.0\AndroidManifest.xml:24:22-69
 17
 18    <application android:debuggable="true" >
-18-->D:\Documents\G-Drive\trackingapp\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger5454856320059883507.xml:7:5-9:19
-18-->D:\Documents\G-Drive\trackingapp\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger5454856320059883507.xml:7:18-43
+18-->D:\Documents\G-Drive\trackingapp\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger4421517443856682690.xml:7:5-9:19
+18-->D:\Documents\G-Drive\trackingapp\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger4421517443856682690.xml:7:18-43
 19        <uses-library android:name="android.test.runner" />
-19-->D:\Documents\G-Drive\trackingapp\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger5454856320059883507.xml:8:9-60
-19-->D:\Documents\G-Drive\trackingapp\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger5454856320059883507.xml:8:23-57
+19-->D:\Documents\G-Drive\trackingapp\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger4421517443856682690.xml:8:9-60
+19-->D:\Documents\G-Drive\trackingapp\app\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger4421517443856682690.xml:8:23-57
 20
 21        <activity
 21-->[androidx.test:core:1.3.0] C:\Users\Harshna\.gradle\caches\transforms-2\files-2.1\ff713f148ab7842b1b4b6e98bb35bbe7\core-1.3.0\AndroidManifest.xml:27:9-33:20

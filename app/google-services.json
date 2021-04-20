@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "587881623269",
+    "project_id": "gmagica-trackingapp",
+    "storage_bucket": "gmagica-trackingapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587881623269:android:bfd1b9c01ad8b7efdc2e0c",
+        "android_client_info": {
+          "package_name": "com.gmagica.trackingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "587881623269-6ojsnbqeujo7p3of0vi7sr8u09tkous9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gmagica.trackingapp",
+            "certificate_hash": "b2bfca9f5948076d35c8fffbef8b66607eee89ef"
+          }
+        },
+        {
+          "client_id": "587881623269-br2hiu28ur05sh7nk0tkot1kdmsv9gg4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw36-waipIcU7keNU-Zk10lUb33GOjTns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "587881623269-br2hiu28ur05sh7nk0tkot1kdmsv9gg4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

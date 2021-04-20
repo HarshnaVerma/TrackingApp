@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">587881623269-br2hiu28ur05sh7nk0tkot1kdmsv9gg4.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">587881623269</string>
+    <string name="google_api_key" translatable="false">AIzaSyDw36-waipIcU7keNU-Zk10lUb33GOjTns</string>
+    <string name="google_app_id" translatable="false">1:587881623269:android:bfd1b9c01ad8b7efdc2e0c</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDw36-waipIcU7keNU-Zk10lUb33GOjTns</string>
+    <string name="google_storage_bucket" translatable="false">gmagica-trackingapp.appspot.com</string>
+    <string name="project_id" translatable="false">gmagica-trackingapp</string>
+</resources>

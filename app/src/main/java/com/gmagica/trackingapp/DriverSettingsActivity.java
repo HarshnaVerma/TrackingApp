@@ -48,7 +48,6 @@ public class DriverSettingsActivity extends AppCompatActivity {
     private String userID;
     private String mName;
     private String mPhone;
-    private String mCar;
     private String mService;
     private String mProfileImageUrl;
 
@@ -65,7 +64,6 @@ public class DriverSettingsActivity extends AppCompatActivity {
 
         mNameField = (EditText) findViewById(R.id.name);
         mPhoneField = (EditText) findViewById(R.id.phone);
-        mCarField = (EditText) findViewById(R.id.car);
 
         mProfileImage = (ImageView) findViewById(R.id.profileImage);
 
@@ -118,21 +116,18 @@ public class DriverSettingsActivity extends AppCompatActivity {
                         mPhone = map.get("phone").toString();
                         mPhoneField.setText(mPhone);
                     }
-                    if(map.get("car")!=null){
-                        mCar = map.get("car").toString();
-                        mCarField.setText(mCar);
-                    }
+
                     if(map.get("service")!=null){
                         mService = map.get("service").toString();
                         switch (mService){
-                            case"UberX":
-                                mRadioGroup.check(R.id.UberX);
+                            case"Vehicle 1":
+                                mRadioGroup.check(R.id.Vehicle1);
                                 break;
-                            case"UberBlack":
-                                mRadioGroup.check(R.id.UberBlack);
+                            case"Vehicle 2":
+                                mRadioGroup.check(R.id.Vehicle2);
                                 break;
-                            case"UberXl":
-                                mRadioGroup.check(R.id.UberXl);
+                            case"Vehicle 3":
+                                mRadioGroup.check(R.id.Vehicle3);
                                 break;
                         }
                     }
@@ -154,7 +149,6 @@ public class DriverSettingsActivity extends AppCompatActivity {
     private void saveUserInformation() {
         mName = mNameField.getText().toString();
         mPhone = mPhoneField.getText().toString();
-        mCar = mCarField.getText().toString();
 
         int selectId = mRadioGroup.getCheckedRadioButtonId();
 
@@ -169,7 +163,6 @@ public class DriverSettingsActivity extends AppCompatActivity {
         Map userInfo = new HashMap();
         userInfo.put("name", mName);
         userInfo.put("phone", mPhone);
-        userInfo.put("car", mCar);
         userInfo.put("service", mService);
         mDriverDatabase.updateChildren(userInfo);
 

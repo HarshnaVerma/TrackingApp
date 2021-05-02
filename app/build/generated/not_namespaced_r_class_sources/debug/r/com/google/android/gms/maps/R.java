@@ -40,11 +40,11 @@ public final class R {
     public static final class id {
         private id() {}
 
-        public static final int hybrid = 0x7f0800d3;
-        public static final int none = 0x7f08012b;
-        public static final int normal = 0x7f08012c;
-        public static final int satellite = 0x7f080171;
-        public static final int terrain = 0x7f0801b3;
+        public static final int hybrid = 0x7f0800cc;
+        public static final int none = 0x7f080124;
+        public static final int normal = 0x7f080125;
+        public static final int satellite = 0x7f08016a;
+        public static final int terrain = 0x7f0801b2;
     }
     public static final class styleable {
         private styleable() {}
